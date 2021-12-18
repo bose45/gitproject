@@ -1,0 +1,20 @@
+{
+    "cards":[{
+        "img":"images/oneplus.jpg",
+        "name":"Oneplus",
+        "rate":"40000",
+        "offer":"30000",
+        "button":"View"
+
+    },{
+
+        "img":"images/oppo.jpg",
+        "name":"Oppo",
+        "rate":"30000",
+        "offer":"20000",
+        "button":"View"
+
+    }
+    ]
+
+}
